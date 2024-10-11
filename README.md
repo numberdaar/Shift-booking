@@ -20,3 +20,12 @@ To run this application locally, follow these steps:
    cd shift-management-app
    npm Install 
    npm start
+
+## Backend
+In a separate terminal window, clone the backend repository:
+
+```bash
+   git clone https://github.com/numberdaar/Shift-booking-backend-api.git
+   cd Shift-booking-backend-api
+    npm Install 
+   npm start
