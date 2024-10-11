@@ -28,7 +28,8 @@ In a separate terminal window, clone the backend repository:
    git clone https://github.com/numberdaar/Shift-booking-backend-api.git
    cd Shift-booking-backend-api
    npm Install 
-   npm start ```
+   npm start  
+   ```
 
-# keep in mind 
-API server runs at localhost:8080
+## Keep in mind 
+   API server runs at localhost:8080
